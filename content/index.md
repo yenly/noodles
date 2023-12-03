@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: What is this?
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Ideas are still fuzzy. Wheels in my head are still spinning. I'm hoping this could be the space to jot down notes on while my brain is noodling.
+
+[[test]]
